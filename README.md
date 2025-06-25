@@ -33,13 +33,24 @@ The fare is calculated using:
 
 ---
 
-## 🔹 Challenge 3: Mobile Money Fee Estimator 📱
+## Challenge 3: Mobile Money Transaction Fee Estimator
 
-> Coming soon...
+A calculator that estimates the transaction fee based on how much money a user wants to send.
+
+### How to Run:
+1. Open the file `mobileMoneyEstimator/index.html` in your browser
+2. Enter the amount you wish to send when prompted
+3. Right-click the page → Inspect → go to **Console** tab to view the results
+
+### Fee Rules:
+- 1.5% of the amount being sent
+- Minimum fee: KES 10
+- Maximum fee: KES 70
+
 
 ---
 
-### ✅ How This Repo is Structured
+### How This Repo is Structured
 
 Each challenge is inside its own folder:
 - `chaiCalculator/`
