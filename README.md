@@ -7,7 +7,7 @@ This repository contains three mini-projects written in JavaScript.
 
 ---
 
-## Challenge 1: Chai Bora Ingredient Calculator ☕
+## Challenge 1: Chai Bora Ingredient Calculator 
 
 A script to calculate how much water, milk, tea leaves, and sugar you need based on how many cups of Kenyan chai you want to make.
 
